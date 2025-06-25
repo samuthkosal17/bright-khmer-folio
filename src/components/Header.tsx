@@ -42,7 +42,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="text-2xl font-bold text-gradient">
-            ចាន់ សុភាព
+            កុសល់ សាមុត
           </div>
 
           {/* Desktop Navigation */}

@@ -32,16 +32,16 @@ const HeroSection = () => {
         <div className="animate-fade-in">
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="text-gradient">ខ្ញុំជាអ្នកសរសេរកម្មវិធី</span>
+            <span className="text-gradient">ខ្ញុំជានិស្សិតឆ្នាំទី២ </span>
             <br />
-            <span className="text-foreground">ដែលបង្កើតអនាគត</span>
+            <span className="text-foreground">Norton University</span>
           </h1>
           
           {/* Subheading */}
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            ជំនាញខាង <span className="text-primary font-semibold">Full-Stack Development</span> និង <span className="text-primary font-semibold">AI</span>
+            ជំនាញខាង <span className="text-primary font-semibold">Graphic Design</span> និង <span className="text-primary font-semibold">ថតរូប</span>
             <br />
-            ដើម្បីបង្កើតដំណោះស្រាយឌីជីថលដ៏ទំនើប
+            ដើម្បីបង្កើតនៅអ្វីដែលថ្មី សម្រាប់ទាំងអស់គ្នា
           </p>
           
           {/* CTA Buttons */}

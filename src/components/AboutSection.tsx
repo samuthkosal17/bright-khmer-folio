@@ -37,8 +37,7 @@ const AboutSection = () => {
             </h2>
             
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              ជំរាបសួរ! ខ្ញុំឈ្មោះ <strong className="text-foreground">ចាន់ សុភាព</strong> ជាអ្នកសរសេរកម្មវិធីដែលមានចំណាប់អារម្មណ៍ជ្រៅលើបច្ចេកវិទ្យា។ 
-              ខ្ញុំមានបទពិសោធន៍ច្រើនឆ្នាំក្នុងការអភិវឌ្ឍន៍ប្រព័ន្ធវេបនិងកម្មវិធីទូរស័ព្ទ។
+              ជំរាបសួរ! ខ្ញុំឈ្មោះ <strong className="text-foreground">កុសល់ សាមុត</strong> ខ្ញុំមានការងារជា Freelancer។
             </p>
             
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
