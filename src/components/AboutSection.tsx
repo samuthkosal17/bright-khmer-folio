@@ -20,7 +20,7 @@ const AboutSection = () => {
             <div className="relative w-full max-w-md mx-auto">
               <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop&crop=face" 
+                  src="hphoto_2025-06-09_22-55-25" 
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
