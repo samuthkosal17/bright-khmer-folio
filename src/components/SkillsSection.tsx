@@ -7,21 +7,21 @@ const SkillsSection = () => {
     {
       title: 'Frontend',
       skills: [
-        { name: 'React', level: 90 },
-        { name: 'TypeScript', level: 85 },
-        { name: 'Next.js', level: 88 },
-        { name: 'Tailwind CSS', level: 92 },
-        { name: 'Vue.js', level: 75 },
+        { name: 'Microsoft Word', level: 90 },
+        { name: 'Microsoft Excel', level: 60 },
+        { name: 'Microsoft Powerpoint', level: 88 },
+        { name: 'Canva', level: 25 },
+        { name: 'Motion Ninja', level: 75 },
       ]
     },
     {
       title: 'Backend',
       skills: [
-        { name: 'Node.js', level: 87 },
-        { name: 'Python', level: 82 },
-        { name: 'Express.js', level: 85 },
-        { name: 'MongoDB', level: 80 },
-        { name: 'PostgreSQL', level: 78 },
+        { name: 'Adobe Photoshop', level: 87 },
+        { name: 'Adobe Illustrator', level: 82 },
+        { name: 'Adobe After Effects', level: 85 },
+        { name: 'Adobe Premue', level: 50 },
+        { name: 'Davivc', level: 25 },
       ]
     },
     {

@@ -6,7 +6,7 @@ import { Card, CardContent } from '@/components/ui/card';
 
 const AboutSection = () => {
   const stats = [
-    { icon: Calendar, label: 'ឆ្នាំបទពិសោធន៍', value: '5+' },
+    { icon: Calendar, label: 'ឆ្នាំបទពិសោធន៍', value: '1+' },
     { icon: Award, label: 'គម្រោងបញ្ចប់', value: '50+' },
     { icon: MapPin, label: 'ទីតាំង', value: 'ភ្នំពេញ' },
   ];
