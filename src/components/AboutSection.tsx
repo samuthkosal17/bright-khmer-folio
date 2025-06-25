@@ -20,13 +20,13 @@ const AboutSection = () => {
             <div className="relative w-full max-w-md mx-auto">
               <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
                 <img 
-                  src="hphoto_2025-06-09_22-55-25" 
+                  src="/Users/macbook/Desktop,photo_2025-06-09_22-55-25.jpg" 
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="absolute -top-4 -right-4 w-24 h-24 bg-primary/20 rounded-full animate-float"></div>
-              <div className="absolute -bottom-4 -left-4 w-16 h-16 bg-purple-500/20 rounded-full animate-float" style={{ animationDelay: '2s' }}></div>
+              <div className="absolute -bottom-4 -left-4 w-16 h-16 bg-blue-500/20 rounded-full animate-float" style={{ animationDelay: '2s' }}></div>
             </div>
           </div>
 
