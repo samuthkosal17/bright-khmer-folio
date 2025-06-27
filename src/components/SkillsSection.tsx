@@ -25,11 +25,11 @@ const SkillsSection = () => {
       ]
     },
     {
-      title: 'Contact Information',
+      title: 'Contact Inform',
       skills: [
-       <a href="t.me/nestelrooyxx"></a> { name: 'Telegram', level: 90 },
-       <a href="facebook.com/roniesonxx"></a> { name: 'Facebook', level: 75 },
-        
+        { name: 'Camera', level: 90 },
+        { name: 'Editor', level: 75 },
+        <a href="t.me/nestelrooyxx"></a> Telegram
       ]
     }
   ];
