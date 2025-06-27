@@ -19,8 +19,7 @@ const AboutSection = () => {
           <div className="relative animate-fade-in">
             <div className="relative w-full max-w-md mx-auto">
               <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
-                <img 
-                  src="/photo_2025-06-27_22-50-06.jpg" 
+                <img src="photo_2025-06-27_22-50-06.jpg" 
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
